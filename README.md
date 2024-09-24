@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 # Andrés Felipe Rincón  
 **Software Engineering Student**  
 
-![Profile Image](your-image-url)
-
-I am an aspiring Software Engineer driven by a passion for solving challenges through programming and web development. I am captivated by the creative potential of technology and the vast opportunities it offers. My goal is to learn and thrive in a dynamic environment by tackling diverse learning opportunities and challenges. I am passionate about both frontend and backend development, aiming to become a full-stack engineer. I enjoy collaborating with teams, learning new technologies, and am always eager to grow as a developer.
+I am an aspiring Software Engineer driven by a passion for solving challenges through programming and web development. I am captivated by the creative potential of technology and the vast opportunities it offers. My goal is to learn and thrive in a dynamic environment by tackling diverse learning opportunities and challenges. I am passionate about both frontend and backend development, aiming to become a full-stack engineer. I enjoy collaborating with teams, learning new technologies, and I'm always eager to grow as a developer.
 
 ---
 
 ## 🔧 **Experience**
 
-### **Globant, Cali - LA Clippers**  
+### **Globant, Cali**  
 **QA Engineer**  
 _Jul 2024 - Today_  
 - Mobile testing: Test case design, execution using Jira and Xray.  
@@ -62,9 +60,9 @@ _Universidad del Valle (March 2019 - Present)_
 
 - **Programming Languages:** Java, Python, TypeScript, JavaScript  
 - **Technologies:** Spring, Spring Boot, API REST, SQL, PostgreSQL, MySQL, Git, Docker  
-- **Frontend Tools:** HTML, CSS, Bootstrap, React  
-- **Testing Tools:** Selenium, Appium  
-- **Other Skills:** Problem solving, critical thinking, empathy, teamwork
+- **Frontend Tools:** HTML, CSS, Bootstrap, React, React Native.   
+- **Testing Tools:** Selenium, Appium, JUnit, TestNG, Mockito, Hamcrest, Gherkin, REST Assured.
+- **Soft Skills:** Problem solving, critical thinking, empathy, teamwork, time management, curiosity and eagerness to learn, attention to detail.
 
 ---
 
@@ -72,7 +70,7 @@ _Universidad del Valle (March 2019 - Present)_
 
 - **Mentorship at Globant**  
   _Apr 2024 - Jun 2024_  
-  Mentored high school students from Costa Rica on software engineering basics.
+  Mentored high school students from Costa Rica on software engineering basics and programming.
 
 - **Applaudo Studios Training Program**  
   _Mar 2023 - May 2023_  
@@ -85,15 +83,14 @@ _Universidad del Valle (March 2019 - Present)_
 - Spanish (Native)  
 - English (Advanced)  
 - Portuguese (Intermediate)  
-- French (Basic)  
+- French (Intermediate)
+- Italian (basic)
 
 ---
 
 ## 📫 **Contact Information**
-
-- **Phone:** +57 3183679845  
+ 
 - **Email:** andresfeliper.2001@gmail.com  
 - **LinkedIn:** [Andrés Felipe Rincón](https://www.linkedin.com/in/andres-felipe-rincon)  
-- **GitHub:** [andresfeliper](https://github.com/andresfeliper)  
 - **Location:** Cali, Colombia
 
