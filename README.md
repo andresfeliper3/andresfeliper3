@@ -64,7 +64,7 @@ I’m a passionate Software Engineer focused on solving challenges through progr
 **College Trainee**
 - ✍️ **Mobile Testing:** Test case design and execution with Jira and Xray.  
 - 🛠️ Automation, API testing and accessibility testing using GitHub.
-- 🔧 Developed test automation using **Selenium** and **Appium** during testing training..  
+- 🔧 Developed test automation using **Selenium** and **Appium** during testing training.
 
 ---
 
