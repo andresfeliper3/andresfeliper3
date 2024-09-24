@@ -93,7 +93,7 @@ _Universidad del Valle (March 2019 - Present)_
 
 - **Data Science tools and libraries:**
 
-  ![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue)
+  ![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue) ![Seaborn](https://img.shields.io/badge/Seaborn-%23006BB6.svg?style=for-the-badge&logoColor=white)
 
 
 - **Soft Skills:**  
