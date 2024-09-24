@@ -63,7 +63,7 @@ I’m a passionate Software Engineer focused on solving challenges through progr
 **Jan 2024 - Jul 2024**
 **College Trainee**
 - ✍️ **Mobile Testing:** Test case design and execution with Jira and Xray.  
-- 🛠️ **API Testing:** Automation and accessibility testing using GitHub.
+- 🛠️ Automation, API testing and accessibility testing using GitHub.
 - 🔧 Developed test automation using **Selenium** and **Appium** during testing training..  
 
 ---
@@ -90,7 +90,8 @@ _Universidad del Valle (March 2019 - Present)_
 
 
 - **Testing tools:**  
-  ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-%232075E6.svg?style=for-the-badge&logo=appium&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-%23E34F26.svg?style=for-the-badge&logo=JUnit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-%23E34F26.svg?style=for-the-badge)
+  ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-%232075E6.svg?style=for-the-badge&logo=appium&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-%23E34F26.svg?style=for-the-badge&logo=JUnit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-%23E34F26.svg?style=for-the-badge) [![Mockito](https://img.shields.io/badge/Mockito-2D2D2D?style=flat&logo=Mockito&logoColor=white)](https://site.mockito.org/)
+
 
 - **Data Science tools and libraries:**
 
