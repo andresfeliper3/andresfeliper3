@@ -24,6 +24,14 @@ I’m a passionate Software Engineer focused on solving challenges through progr
 
 ---
 
+⚡ **Fun facts**
+- 🌐 I love learning languages.
+- 📘 Always interested in learning and acquiring new skills.
+- 📖 I love reading books.
+- 🎶 I play the piano as a hobby.
+
+--
+
 ## 🛠️ **Tech Stack**
 
 ### Languages & Frameworks
@@ -37,7 +45,7 @@ I’m a passionate Software Engineer focused on solving challenges through progr
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Testing & DevOps
+### Testing 
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23E34F26.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23E34F26.svg?style=for-the-badge)
@@ -50,21 +58,12 @@ I’m a passionate Software Engineer focused on solving challenges through progr
 
 ### 🌍 **Globant, Cali - QA Engineer**  
 **July 2024 - Present**  
+**QA Engineer**
+**Jan 2024 - Jul 2024**
+**College Trainee**
 - ✍️ **Mobile Testing:** Test case design and execution with Jira and Xray.  
 - 🛠️ **API Testing:** Automation and accessibility testing using GitHub.
-
-### 💻 **Globant, College Trainee**  
-**Jan 2024 - Jul 2024**  
-- 🔧 Developed test automation using **Selenium** and **Appium**.  
-- 🚀 Worked on backend development with **NodeJS** using **NestJS**.
-
-### 🎨 **Décimo Arte, Cali - Frontend Developer**  
-**Mar 2021 - Dec 2021**  
-- Designed responsive, user-friendly web applications using **HTML**, **CSS**, **Bootstrap**, and **React**.
-
-### 🎓 **Estrategia ASES, Universidad del Valle - Student Mentor**  
-**Mar 2021 - Oct 2021**  
-- Provided academic and technical support to software engineering students in programming and problem-solving.
+- 🔧 Developed test automation using **Selenium** and **Appium** during testing training..  
 
 ---
 
