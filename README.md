@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 # Andrés Felipe Rincón  
-**Software Engineering Student**  
+**Software Engineering**  
 
-I’m a passionate Software Engineer focused on solving challenges through programming and web development. Enthusiastic about learning new technologies and continuously improving, my goal is to become a full-stack developer, proficient in both frontend and backend development. I thrive in collaborative environments and love tackling new challenges. 🌱
+I’m a passionate Software Engineer who loves solving challenges through programming and web development. I’ve been well-trained as a full-stack developer, working with both frontend and backend, but what truly excites me is diving into the world of data engineering, data science, Gen AI, and machine learning. I’m always curious, eager to learn new technologies, and driven by the idea of building solutions that make an impact. I enjoy working with others and taking on new challenges that push me to grow 🌱
 
 ---
 
@@ -95,7 +95,11 @@ _Universidad del Valle (March 2019 - Present)_
 
 - **Data Science tools and libraries:**
 
-  ![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue) ![Seaborn](https://img.shields.io/badge/Seaborn-%23006BB6.svg?style=for-the-badge&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue) ![Seaborn](https://img.shields.io/badge/Seaborn-%23006BB6.svg?style=for-the-badge&logoColor=white)![Scrapy](https://img.shields.io/badge/Scrapy-%23217346.svg?style=for-the-badge&logo=scrapy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-%23007396.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 
 
 - **Soft Skills:**  
@@ -108,6 +112,11 @@ _Universidad del Valle (March 2019 - Present)_
 - **🌍 Mentorship at Globant**  
   _Apr 2024 - Jun 2024_  
   Mentored high school students from Costa Rica on software engineering and programming fundamentals.
+
+- **🎓 Student Assistant – Universidad del Valle**  
+  _Sep 2023 - Dec 2023_  
+  Assisted in the **Introduction to Data Science** course (Software Engineering program) through asynchronous support (6h/week). Contributed to the preparation and review of workshops using **Pentaho** for ETL processes and helped students by addressing questions and clarifying doubts.
+
 
 - **📘 Applaudo Studios Training Program**  
   _Mar 2023 - May 2023_  
