@@ -71,8 +71,11 @@ Problem Solving, Critical Thinking, Teamwork, Time Management, Curiosity, Eagern
 
 ## 💼 **Experience**
 
-### 🌍 **Globant, Cali - QA Engineer**  
-**July 2024 - Present**  
+### 🌍 **Globant, Cali - Data Engineer**  
+**November 2025 - Present**  
+**Data Engineer**
+
+**July 2024 - November 2025**  
 **QA Engineer**
 
 **Jan 2024 - Jul 2024**  
